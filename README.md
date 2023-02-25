@@ -4,7 +4,7 @@ Welcome to the Astronomy Picture of the Day (APOD) Dashboard! This website displ
 
 ## Usage
 
-To use the APOD Dashboard, simply visit the website at [https://your-website-url.com/](https://your-website-url.com/). The latest APOD image and description will be displayed as the background and in a separate box, respectively.
+To use the APOD Dashboard, simply visit the website at [https://rishu-8104.github.io/Astronomy_Picture_of_the_Day/](https://rishu-8104.github.io/Astronomy_Picture_of_the_Day/). The latest APOD image and description will be displayed as the background and in a separate box, respectively.
 
 ## Technologies Used
 
